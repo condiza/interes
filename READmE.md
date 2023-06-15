@@ -13,3 +13,4 @@ Este es un proyecto para la case de git y github, para reforzar conocimientos.
 
 ## Elaborado por 
 Jefferson David Condiza Quintero.
+Maria Jose Gonzalez H

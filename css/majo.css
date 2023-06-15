@@ -1,0 +1,28 @@
+body{
+    background:url(../image/manny.jpg);
+    background-size: cover;
+ 
+   
+}
+h1{
+    font-size: xx-large;
+    color: rgb(244, 248, 4);
+   
+}
+p{
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    
+    
+}
+img{
+    width: 500px;
+    margin: 0px 400px 0px;
+}
+.many{
+    background-color: rgba(88, 145, 237, 0.726);
+    font-family:Arial, Helvetica, sans-serif;
+    float: left;
+    width: 70%;
+    margin: 20px 280px 10px;
+}
